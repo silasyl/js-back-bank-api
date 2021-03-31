@@ -1,0 +1,40 @@
+{
+  "nextId": 8,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Nayara linda :(",
+      "balance": 100
+    },
+    {
+      "id": 2,
+      "name": "Nayara linda :(",
+      "balance": 100
+    },
+    {
+      "id": 3,
+      "name": "Nayara linda :(",
+      "balance": 100
+    },
+    {
+      "id": 4,
+      "name": "Nayara linda :(",
+      "balance": 9999
+    },
+    {
+      "id": 5,
+      "name": "Nayara vaca",
+      "balance": 999
+    },
+    {
+      "id": 6,
+      "name": "Nayara linda :(",
+      "balance": 0
+    },
+    {
+      "id": 7,
+      "name": "Nayara linda :(",
+      "balance": 0
+    }
+  ]
+}
